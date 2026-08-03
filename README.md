@@ -125,7 +125,7 @@ The project brings multiple aspects of personal wellness into one interactive in
 | **Focus** | Web Development · UI · JavaScript |
 | **Core Technologies** | HTML · CSS · JavaScript |
 | **Context** | UID Project |
-| **Repository** | [View FitNova](../FitNova) |
+| **Repository** | [View FitNova](https://github.com/Aish25-sketch/FitNova) |
 
 ### WHY IT MATTERS
 
@@ -223,7 +223,7 @@ Amritapuri Campus · 17–18 July 2026
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aish25-sketch&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9B27C&text_color=E8E3D8&icon_color=C9B27C&ring_color=C9B27C" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aish25-sketch&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9B27C&text_color=E8E3D8&icon_color=C9B27C" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aish25-sketch&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9B27C&text_color=E8E3D8" width="40%"/>
 
@@ -235,11 +235,18 @@ Amritapuri Campus · 17–18 July 2026
 
 ---
 
-## 10 / GITHUB TROPHIES
+## 10 / GROWTH
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aish25-sketch&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<sub>Building consistency before chasing numbers.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LEARN-0D0D0D?style=for-the-badge&labelColor=C9B27C&color=0D0D0D"/>
+<img src="https://img.shields.io/badge/BUILD-0D0D0D?style=for-the-badge&labelColor=C9B27C&color=0D0D0D"/>
+<img src="https://img.shields.io/badge/SOLVE-0D0D0D?style=for-the-badge&labelColor=C9B27C&color=0D0D0D"/>
+<img src="https://img.shields.io/badge/IMPROVE-0D0D0D?style=for-the-badge&labelColor=C9B27C&color=0D0D0D"/>
 
 </div>
 
