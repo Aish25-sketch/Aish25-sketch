@@ -8,9 +8,9 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CSE%20%7C%20AI-0D0D0D?style=flat-square&labelColor=C9B27C&color=0D0D0D&logoColor=E8E3D8"/>
-<img src="https://img.shields.io/badge/LEARNING-0D0D0D?style=flat-square&labelColor=C9B27C&color=0D0D0D"/>
-<img src="https://img.shields.io/badge/BUILDING-0D0D0D?style=flat-square&labelColor=C9B27C&color=0D0D0D"/>
+<img src="https://img.shields.io/badge/CSE%20%7C%20AI-0D0D0D?style=flat-square&labelColor=C9B27C&color=0D0D0D"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0D0D0D?style=flat-square&labelColor=C9B27C&color=0D0D0D"/>
+<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-0D0D0D?style=flat-square&labelColor=C9B27C&color=0D0D0D"/>
 
 <br><br>
 
@@ -20,6 +20,10 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/aiswarya-s-a9a2a237b/">
 <img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=C9B27C"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/aish2006/">
+<img src="https://img.shields.io/badge/LEETCODE-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=C9B27C"/>
 </a>
 
 <br><br>
@@ -32,23 +36,23 @@
 
 ## 01 / ABOUT
 
-I'm a **Computer Science student specializing in AI**, currently focused on building the foundations that turn programming knowledge into strong problem-solving ability.
+I'm a **Computer Science student specializing in Artificial Intelligence**, currently focused on building the foundations that turn programming knowledge into strong problem-solving ability.
 
-I work with **Python, Java, C, HTML, CSS, and JavaScript** and am gradually moving from learning syntax and concepts toward understanding how to approach problems independently.
+I work with **Python, Java, C, HTML, CSS, and JavaScript**, and I'm gradually moving from learning concepts and syntax toward understanding how to approach problems independently.
 
-Hackathons have given me exposure to building under pressure, experimenting with technologies, and working with others. More importantly, they've helped me understand what I want to improve next:
+I've participated in hackathons, worked on collaborative academic projects, and started solving problems on LeetCode. Each experience has helped me understand what I want to improve next:
 
 **logic, consistency, technical depth, and the ability to build things from the ground up.**
 
-Right now, my focus is simple:
+Right now, my goal is simple:
 
 > **Become genuinely good at coding.**
 
-That means strengthening DSA, beginning consistent LeetCode practice, building projects, and learning to solve problems without relying on step-by-step solutions.
+I'm working toward that through DSA, consistent problem-solving practice, projects, and learning how to turn ideas into working implementations.
 
 ### CURRENT DIRECTION
 
-`Problem Solving` · `DSA` · `LeetCode` · `Software Engineering` · `AI/ML` · `Web Development`
+`DSA` · `Problem Solving` · `LeetCode` · `Software Engineering` · `AI/ML` · `Web Development`
 
 ### OPEN TO
 
@@ -80,146 +84,138 @@ That means strengthening DSA, beginning consistent LeetCode practice, building p
 
 ## 03 / AI & ENGINEERING
 
-| AREA                | CURRENT STAGE | DIRECTION                     |
-| :------------------ | :-----------: | :---------------------------- |
-| **Python**          | `Comfortable` | Programming & problem solving |
-| **Java**            |   `Learning`  | OOP & software fundamentals   |
-| **C**               |   `Learning`  | Programming & DSA foundations |
-| **HTML / CSS / JS** |   `Learning`  | Web development               |
-| **DSA**             |   `Building`  | Logic & algorithmic thinking  |
-| **LeetCode**        |   `Starting`  | Consistent problem solving    |
-| **AI / ML**         |  `Exploring`  | Concepts & practical projects |
+| AREA | CURRENT STAGE | DIRECTION |
+|:---|:---:|:---|
+| **Python** | Comfortable | Programming & problem solving |
+| **Java** | Learning | OOP & software fundamentals |
+| **C** | Learning | Programming & DSA foundations |
+| **HTML / CSS / JS** | Learning | Web development |
+| **DSA** | Building | Logic & algorithmic thinking |
+| **LeetCode** | Practicing | Consistent problem solving |
+| **AI / ML** | Exploring | Concepts & practical projects |
 
 ---
 
-## 04 / SELECTED WORK
+## 04 / FEATURED PROJECT
 
-<details>
-<summary><b>01 — HACKATHON PROJECTS & EXPERIMENTS</b></summary>
-
-<br>
-
-I've participated in hackathons to explore technologies, collaborate with others, and experience the process of turning an idea into a working prototype.
-
-The biggest takeaway hasn't been the number of projects completed — it's understanding the areas I need to strengthen.
-
-### Focus
-
-* Programming confidence
-* Logical problem solving
-* Building under time constraints
-* Working with unfamiliar technologies
-* Collaboration
-* Turning ideas into implementations
-
-|                 |                                                              |
-| :-------------- | :----------------------------------------------------------- |
-| **Stack**       | Python · AI/ML · Web Technologies · Git                      |
-| **Stage**       | Learning / Prototype                                         |
-| **Performance** | Improving through iteration                                  |
-| **Security**    | Learning best practices                                      |
-| **Impact**      | Practical engineering experience                             |
-| **Repository**  | [github.com/Aish25-sketch](https://github.com/Aish25-sketch) |
-
-</details>
+<details open>
+<summary><b>FITNOVA — PERSONAL WELLNESS & ENERGY TRACKER</b></summary>
 
 <br>
 
-<details>
-<summary><b>02 — UPCOMING BUILD</b></summary>
+**FitNova** is a collaborative web project developed with two teammates as part of a **UID academic project**.
 
-<br>
+The project brings multiple aspects of personal wellness into one interactive interface, with dedicated areas for tracking and monitoring different aspects of daily health and progress.
 
-### FROM FUNDAMENTALS → IMPLEMENTATION
+### What I Worked With
 
-My next projects are going to be less about making something impressive quickly and more about understanding what I'm building.
+- Calorie & energy tracking
+- Exercise / training tracking
+- Hydration tracking
+- Nutrition tracking
+- Progress monitoring
+- Sleep insights
+- Interactive web interfaces
+- Client-side data persistence
 
-### Direction
+| | |
+|:---|:---|
+| **Project Type** | Academic / Collaborative |
+| **Team** | 3 members |
+| **Focus** | Web Development · UI · JavaScript |
+| **Core Technologies** | HTML · CSS · JavaScript |
+| **Context** | UID Project |
+| **Repository** | [View FitNova](../FitNova) |
 
-* DSA implementations
-* Python projects
-* Java / OOP projects
-* Web development
-* AI/ML experiments
-* Small projects focused on logic
+### WHY IT MATTERS
 
-> **Build it. Break it. Debug it. Understand it. Improve it.**
+FitNova was one of my first experiences building a larger project collaboratively rather than working only on isolated programming exercises.
+
+It helped me understand how individual pages, features, styling, JavaScript logic, and user interactions come together to form a complete application.
+
+> **Build → understand → improve.**
 
 </details>
 
 ---
 
-## 05 / EXPERIENCE
+## 05 / HACKATHONS & EXPERIENCE
 
-### COMPUTER SCIENCE STUDENT
+### AMRITA UNIVERSITY AMRITAPURI CAMPUS HACKATHON
 
-**B.Tech CSE — Artificial Intelligence**
+**17–18 July 2026** · Team **"Brain not found"**
 
-Currently building a foundation across programming, software development, AI, and problem solving.
+Participated in a campus hackathon and gained hands-on exposure to rapid prototyping, collaboration, unfamiliar technologies, and building under time constraints.
 
-### CURRENT SCOPE
+**Certificate:** Certificate of Participation
 
-* Strengthening programming fundamentals
-* Learning multiple programming languages
-* Building DSA foundations
-* Starting structured LeetCode practice
-* Exploring AI / ML
-* Developing web technologies
-* Participating in hackathons
-* Learning Git & GitHub workflows
-* Working toward independent problem solving
-
-`PYTHON` `JAVA` `C` `HTML` `CSS` `JAVASCRIPT` `DSA` `AI/ML` `GIT`
+`Hackathon` `Teamwork` `Prototyping` `Problem Solving`
 
 ---
 
-## 06 / ACHIEVEMENTS
+### EPOCHON 2.0
+
+**7 February 2026** · ACM Student Chapter, Amritapuri
+
+Actively participated in **Epochon 2.0**, gaining experience in innovation, teamwork, and technical problem solving in a competitive event environment.
+
+**Certificate:** Certificate of Participation
+
+`Innovation` `Teamwork` `Problem Solving`
+
+---
+
+## 06 / PROBLEM SOLVING
 
 <div align="center">
 
-|      RECOGNITION      | DETAILS                                                                                         |
-| :-------------------: | :---------------------------------------------------------------------------------------------- |
-|     **HACKATHONS**    | Participated in hackathons and gained hands-on exposure to rapid prototyping and collaboration. |
-|   **CODING JOURNEY**  | Beginning a focused journey toward stronger DSA and algorithmic thinking.                       |
-| **CONTINUOUS GROWTH** | Actively moving from learning concepts toward applying them independently.                      |
+### LEETCODE · `aish2006`
+
+<br>
+
+<img src="https://img.shields.io/badge/14%20PROBLEMS%20SOLVED-0D0D0D?style=for-the-badge&labelColor=C9B27C&color=0D0D0D"/>
+<img src="https://img.shields.io/badge/5%20CONTESTS-0D0D0D?style=for-the-badge&labelColor=C9B27C&color=0D0D0D"/>
+<img src="https://img.shields.io/badge/1411%20CONTEST%20RATING-0D0D0D?style=for-the-badge&labelColor=C9B27C&color=0D0D0D"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/EASY-12-0D0D0D?style=flat-square&labelColor=8F8A80&color=0D0D0D"/>
+<img src="https://img.shields.io/badge/MEDIUM-2-0D0D0D?style=flat-square&labelColor=C9B27C&color=0D0D0D"/>
+<img src="https://img.shields.io/badge/HARD-0-0D0D0D?style=flat-square&labelColor=8F8A80&color=0D0D0D"/>
+
+</div>
+
+<br>
+
+I'm at the beginning of my problem-solving journey and am currently focused on building the habit of approaching problems, understanding algorithms, and gradually becoming more independent in solving them.
+
+> **The goal isn't just to solve more problems. It's to understand why the solution works.**
+
+---
+
+## 07 / ACHIEVEMENTS & RECOGNITION
+
+<div align="center">
+
+| RECOGNITION | DETAILS |
+|:---:|:---|
+| **EPOCHON 2.0** | Certificate of Participation · ACM Student Chapter, Amritapuri · 2026 |
+| **AMRITA CAMPUS HACKATHON** | Certificate of Participation · Team "Brain not found" · 2026 |
+| **FITNOVA** | Collaborative UID academic project · 3-member team |
 
 </div>
 
 ---
 
-## 07 / CERTIFICATIONS
+## 08 / CERTIFICATIONS
 
-> *This section will grow as I complete relevant certifications and learning programs.*
+### PARTICIPATION
 
-<div align="center">
+**Epochon 2.0**  
+ACM Student Chapter, Amritapuri · 7 February 2026
 
-`CONTINUOUS LEARNING`
-
-</div>
-
----
-
-## 08 / CODING
-
-<div align="center">
-
-<a href="https://github.com/Aish25-sketch">
-<img src="https://img.shields.io/badge/GITHUB-AISH25--SKETCH-0D0D0D?style=for-the-badge&logo=github&logoColor=C9B27C&labelColor=171512"/>
-</a>
-
- 
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LEETCODE-BEGINNING-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=C9B27C&labelColor=171512"/>
-</a>
-
- 
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GFG-LEARNING-0D0D0D?style=for-the-badge&logo=geeksforgeeks&logoColor=C9B27C&labelColor=171512"/>
-</a>
-
-</div>
+**Amrita University Amritapuri Campus Hackathon**  
+Amritapuri Campus · 17–18 July 2026
 
 ---
 
@@ -263,7 +259,7 @@ Currently building a foundation across programming, software development, AI, an
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aish25-sketch/Aish25-sketch/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Aish25-sketch/Aish25-sketch/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -300,56 +296,7 @@ exploring:
   - Better GitHub Workflows
 
 goal:
-  - "Become a genuinely strong problem solver"
-  - "Build with understanding, not imitation"
+  - "Build stronger programming logic"
+  - "Become more independent at problem solving"
+  - "Build projects with real understanding"
   - "Improve consistently"
-```
-
----
-
-## 14 / CONNECT
-
-<div align="center">
-
-<a href="https://github.com/Aish25-sketch">
-<img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=C9B27C&labelColor=171512"/>
-</a>
-
-  
-
-<a href="https://www.linkedin.com/in/aiswarya-s-a9a2a237b/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=C9B27C&labelColor=171512"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Let's build something worth learning from.**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9B27C,50:171512,100:0D0D0D&height=120&section=footer" width="100%"/>
-
-</div>
-
-<!--
-**Aish25-sketch/Aish25-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
